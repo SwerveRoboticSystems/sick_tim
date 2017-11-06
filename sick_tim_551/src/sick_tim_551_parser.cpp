@@ -32,7 +32,7 @@
  *
  */
 
-#include <sick_tim/sick_tim551_2050001_parser.h>
+#include <sick_tim_551_parser.h>
 
 #include <ros/ros.h>
 

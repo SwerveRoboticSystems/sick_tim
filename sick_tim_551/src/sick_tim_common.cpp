@@ -36,7 +36,7 @@
  *
  */
 
-#include <sick_tim/sick_tim_common.h>
+#include <sick_tim_common.h>
 
 #include <cstdio>
 #include <cstring>

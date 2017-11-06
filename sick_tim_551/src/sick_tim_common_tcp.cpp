@@ -32,7 +32,7 @@
  *         Christian Dornhege <c.dornhege@googlemail.com>
  */
 
-#include <sick_tim/sick_tim_common_tcp.h>
+#include <sick_tim_common_tcp.h>
 #include <boost/asio.hpp>
 #include <boost/lambda/lambda.hpp>
 #include <algorithm>

@@ -1,0 +1,23 @@
+<package format="2">
+	
+  <name>sick_description</name>
+  <version>0.0.1</version>
+  <description>The SICK TiM 551 laser scanner description package</description>
+
+  <maintainer email="wachterfreddy@gmail.com">Frederick Wachter</maintainer>
+  <author email="ros@jochen.sprickerhof.de">Jochen Sprickerhof</author>
+  <author email="martin.guenther@dfki.de">Martin Günther</author>
+
+  <license>BSD</license>
+
+  <url type="website">http://wiki.ros.org/sick_tim</url>
+  <url type="repository">https://github.com/SwerveRoboticSystems/sick_tim</url>
+  <url type="bugtracker">https://github.com/SwerveRoboticSystems/sick_tim/issues</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>xacro</depend>
+
+</package>
+
+

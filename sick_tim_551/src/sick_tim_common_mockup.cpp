@@ -33,7 +33,7 @@
  *
  */
 
-#include <sick_tim/sick_tim_common_mockup.h>
+#include <sick_tim_common_mockup.h>
 
 namespace sick_tim
 {

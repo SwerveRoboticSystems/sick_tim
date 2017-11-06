@@ -36,7 +36,7 @@
  *
  */
 
-#include <sick_tim/sick_tim_common_usb.h>
+#include <sick_tim_common_usb.h>
 
 namespace sick_tim
 {

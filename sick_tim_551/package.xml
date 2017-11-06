@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package>
-  <name>sick_tim</name>
-  <version>0.0.10</version>
-  <description>
-    A ROS driver for the SICK TiM series of laser scanners.
-  </description>
 
-  <maintainer email="martin.guenther@dfki.de">Martin Günther</maintainer>
+  <name>sick_tim_551</name>
+  <version>0.0.10</version>
+  <description>A ROS driver for the SICK TiM series of laser scanners.</description>
+
+  <maintainer email="wachterfreddy@gmail.com">Frederick Wachter</maintainer>
   <author email="ros@jochen.sprickerhof.de">Jochen Sprickerhof</author>
   <author email="martin.guenther@dfki.de">Martin Günther</author>
 
   <license>BSD</license>
 
   <url type="website">http://wiki.ros.org/sick_tim</url>
-  <url type="repository">https://github.com/uos/sick_tim</url>
+  <url type="repository">https://github.com/SwerveRoboticSystems/sick_tim</url>
+  <url type="bugtracker">https://github.com/SwerveRoboticSystems/sick_tim/issues</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
@@ -28,4 +28,7 @@
   <run_depend>diagnostic_updater</run_depend>
   <run_depend>dynamic_reconfigure</run_depend>
   <run_depend>libusb-1.0</run_depend>
+
 </package>
+
+
